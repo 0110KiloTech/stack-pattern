@@ -9,6 +9,7 @@
 
 - Go
 - Ruby on Rails
+- PHP Laravel
 - Python
 - Java/Kotlin Spring Boot
 - Elixir, Rust, etc
